@@ -6,7 +6,10 @@
 </head>
 <body>
 <h1>
-    主页
+    Welcome back, {{ request.session.user_name }}!
 </h1>
+<p>
+    <a href="/logout/">Log out</a>
+</p>
 </body>
 </html>
