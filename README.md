@@ -1,4 +1,4 @@
-## This is a simple login app using Django(follow tutorial on www.liujiangblog.com)
+## This is a simple login app using Django
 ## Enviorment
 `$pip install -r requirements.txt`
 ## Usage
